@@ -1,9 +1,9 @@
 ## Sales Outreach AI Tool
 
-A lightweight starter for building AI-assisted sales outreach workflows. It currently includes a simple Python entrypoint and a dependency scaffold for common tooling like OpenAI, Gradio, PDF parsing, and environment management.
+A lightweight AI-assisted sales outreach workflows.
 
 ### Features
-- **Starter entrypoint**: `main.py` prints a runnable hello message to verify your environment.
+- **Starter entrypoint**: `main.py`
 - **Dependency scaffold**: `requirements.txt` includes typical libraries for AI apps (`openai`, `gradio`, `pypdf`, `requests`, `python-dotenv`).
 - **Modern Python**: Targets Python 3.12+ via `pyproject.toml`.
 
@@ -39,7 +39,7 @@ python main.py
 
 You should see:
 ```
-Hello from sales-outreach-ai-tool!
+
 ```
 
 ### Project Structure
